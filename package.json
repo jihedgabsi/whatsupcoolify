@@ -18,9 +18,8 @@
     "mongoose": "^8.12.1",
     "net": "^1.0.2",
     "qrcode": "^1.5.4",
-    "whatsapp-web.js": "^1.26.0",
-    "puppeteer": "^24.4.0",
-
+    "whatsapp-web.js": "^1.26.0"
+    
   },
   "description": ""
 }
