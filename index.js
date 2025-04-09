@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-const whatsup = require("./router/whatsappRoutes");
+//const whatsup = require("./router/whatsappRoutes");
 
 
 
