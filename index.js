@@ -5,8 +5,8 @@ const whatsup = require("./router/whatsappRoutes");
 
 
 
-app.use("/whatsapp", whatsup);
+//app.use("/whatsapp", whatsup);
 
-app.listen(4000, () => {
+app.listen(3000, () => {
   console.log('Serveur Express lancé sur http://localhost:3000');
 });
